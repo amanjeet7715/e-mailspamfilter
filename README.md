@@ -31,10 +31,7 @@ For Developing the project I have used Flask Framework as base. I have used HTML
   * $ git clone
   * $ set FLASK_APP= app.py
   * $ flask run
-  
-The whole project is deployed on Heroku Cloud.
 
-Here is the link where you can access the project live : 
 
 Author : Amanjeet Kumar Mishra
 
